@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Runtime Data
+data/
+geometry/
+
+# Reconstruction Outputs
+Models/*/frames/
+Models/*/geometry/
+Models/*/output/
+
+# Databases
+*.db
+
+# Meshes
+*.ply
+*.obj
+*.glb
+
+# Videos
+*.mp4
+*.mov
+*.avi
+
+# Blender
+*.blend1
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# ML Models
+*.pt
+*.pth
